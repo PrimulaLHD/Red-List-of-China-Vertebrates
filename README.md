@@ -1,6 +1,6 @@
 # Red List of China’s Vertebrates 
 by Hai-Dong Li      
-*get_red_list* is a function for searching for taxonomic names (in Chinese or Latin), retrieving information on status in *Red List of China’s Vertebrates* if and endemic in China.
+*get_red_list* is a function for searching for taxonomic names (in Chinese or Latin), retrieving information on status in *Red List of China’s Vertebrates* and if endemic in China.
 
 # Instruction
 ``` r 
