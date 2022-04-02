@@ -4,7 +4,7 @@ by Hai-Dong Li
 
 # Instruction
 ``` r 
-load("Red_List _China_Vertebrates.rda")
+load("Red_List_China_Vertebrates.rda")
 source("get_red_list.R")
 get_red_list(species = c("扁颅鼩鼱"),by_Chinese = T)
 get_red_list(species = c("Glareola_nordmanni","Charadrius_leschenaultii"),by_Chinese = F)
